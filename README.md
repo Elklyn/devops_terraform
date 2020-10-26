@@ -1,0 +1,2 @@
+# devops_terraform
+devops_task_by_Dmytro_Yevenko
